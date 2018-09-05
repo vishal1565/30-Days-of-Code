@@ -1,0 +1,6 @@
+integer = int(input())
+doub = float(input())
+st = input()
+print(i+integer)
+print(d+doub)
+print(s+st)
